@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @torstenhoegel
 - 👀 I’m interested in headless applications
 - 🌱 I’m currently learning for my degree in computer science
-- 💞️ I’m looking to collaborate on OpenSource Projects for my company
+- 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 You can reach out to me via E-Mail
 
 <!---
